@@ -26,19 +26,10 @@ client.login('token')>
 
 #### Pero antes en la consola del proyecto habra que instalar cosas asi que:
 
-<code>
-
-npm install discord.js
-
-</code>
+<code npm install discord.js>
 
 #### Y si quieres puedes instalar nodemon poniendo:
 
-<code>
-
-npm install nodemon -D
-
-</code>
-
+<code npm install nodemon -D >
 
 #### Para mas pasar a la siguiente pagina.
