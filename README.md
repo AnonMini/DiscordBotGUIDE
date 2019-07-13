@@ -7,7 +7,8 @@
 
 ## El codigo inicial es:
 
-<code const Discord = require('discord.js');
+<code>{
+  const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
@@ -20,7 +21,8 @@ client.on('message', msg => {
   }
 });
 
-client.login('token')>
+client.login('token')
+}
 
 
 
